@@ -1,7 +1,7 @@
 - <h2>Hey there !</h2>
 - 👋 Hi, I’m @Umakantamaharana
 - 👀 I’m interested in Machine Learning, Image Recognition 👨‍💻
-- 🌱 I’m currently learning kali tools 💻 and python 🐍 ~~C++ and java~~ 🥀.
+- 🌱 I’m currently learning XAI 💻 and python 🐍 ~~C++ and java~~ 🥀.
 - 💞️ I’m looking to collaborate on a hackathon, Gsoc.
 - 📫 You can DM me on WhatsApp or Instagram.
 - 🙂 Ask me about anything 🗣️, I'm happy to help 💙.
